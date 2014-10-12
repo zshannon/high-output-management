@@ -18,3 +18,9 @@ Date: 1983
 Language: English
 Keywords: Management; Intel; MBA
 Creative Commons license: Attribution-Noncommercial-No Derivative Works 3.0
+
+## iTunes
+Search for `High Output Management` in the podcast directory.
+
+## RSS
+Add `https://github.com/zshannon/high-output-management/rss.xml` to your feed reader.
