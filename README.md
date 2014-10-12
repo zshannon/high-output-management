@@ -23,4 +23,4 @@ Creative Commons license: Attribution-Noncommercial-No Derivative Works 3.0
 Search for `High Output Management` in the podcast directory.
 
 ## RSS
-Add `https://github.com/zshannon/high-output-management/rss.xml` to your feed reader.
+Add `https://github.com/zshannon/high-output-management/rss.xml?raw=true` to your feed reader.
